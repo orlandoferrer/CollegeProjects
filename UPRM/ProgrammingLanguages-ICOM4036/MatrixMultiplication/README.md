@@ -1,6 +1,6 @@
-#Matrix Multiplication
-##Class ICOM4036 - Programming Languages
-###Circa 2005
+# Matrix Multiplication
+## Class ICOM4036 - Programming Languages
+### Circa 2005
 
 Attempting a quick run using the most recent version of the SPIM MIPS Simulator for Mac (I used the most recent version of SPIM for Windows in 2005 to run the assembly portion of this project) yielded some errors— will require some investigation.
 
